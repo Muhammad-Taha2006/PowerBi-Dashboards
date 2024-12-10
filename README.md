@@ -6,7 +6,9 @@ This repository showcases beautifully crafted Power BI projects, built using act
 Highlights include:
 
 Financial Performance Dashboards: Gain insights into profitability, cost management, and budgeting.
+
 Sales and Revenue Analysis: Visualize sales patterns and forecast trends for informed planning.
+
 Operational Metrics: Monitor KPIs, streamline workflows, and identify improvement areas.
 
 Each project demonstrates my ability to gather, clean, and analyze data, as well as design user-friendly interfaces to communicate complex information effectively.
